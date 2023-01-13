@@ -1,10 +1,10 @@
 from confluent_kafka.admin import AdminClient, NewTopic, NewPartitions
-import socket
+
 import os
 
 broker  = os.environ.get('KAFKA_BOOTSTRAP_SERVERS')
 print(broker)
-admin_client = AdminClient( {'bootstrap.servers': broker,'client.id': socket.gethostname()})
+admin_client = AdminClient({"bootstrap.servers": broker})
 topic_list = []
 topic_list.append(NewTopic("fourth", num_partitions=1, replication_factor=1))
 topic_list.append(NewTopic("fifth", num_partitions=2, replication_factor=1))
