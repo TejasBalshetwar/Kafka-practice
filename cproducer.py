@@ -1,7 +1,10 @@
 from confluent_kafka import Producer,SerializingProducer
 from confluent_kafka.serialization import StringSerializer
+from cksr import schema_creation
 import os
+
 broker = os.environ.get('KAFKA_BROKER')
+avro_serializer = schema_creation()
 
 def producer_with_partition():
     producer = Producer({'bootstrap.servers':broker})
@@ -22,8 +25,8 @@ def producer_with_callback():
 
 # producer with serializers
 def producer_with_serializer():
-    producer = SerializingProducer({'bootstrap.servers': broker,'key.serializer': StringSerializer(),'value.serializer': StringSerializer()})
-    producer.produce('first', key='serialized_key', value="{ 'name': 'John', 'age': 30 }")
+    producer = SerializingProducer({'bootstrap.servers': broker,'key.serializer': StringSerializer(),'value.serializer': avro_serializer})
+    producer.produce('first', key='serialized_key', value="{ 'name': 'John', 'age': 31 }")
     producer.flush()
     
 # producing to a specific partition

@@ -28,7 +28,7 @@ def producer_key_serializer():
 # serializing the key and value
 def producer_with_key_and_value_serializer():
     producer = KafkaProducer(bootstrap_servers='localhost:9092',key_serializer=str.encode, value_serializer=lambda v: json.dumps(v).encode('utf-8'))
-    producer.send('first', key='key', value='{ "name": "John", "age": 30 }')
+    producer.send('first', key='key', value='{ "name": "Joh1n", "age": 30 }')
     print("sent")
 
 # callback function
