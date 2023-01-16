@@ -27,7 +27,7 @@ def consumer_deserialisers():
         print(message.value)
      
 def commiting():
-    consumer = KafkaConsumer('first', bootstrap_servers=['localhost:9092'], enable_auto_commit=False, group_id='my-group-5')
+    consumer = KafkaConsumer('first', bootstrap_servers=['localhost:9092'], enable_auto_commit=False, group_id='my-group-5',auto_offset_reset="earliest")
     for message in consumer:
         print(message.value)
         consumer.commit()
