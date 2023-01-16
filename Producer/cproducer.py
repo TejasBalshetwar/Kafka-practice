@@ -1,5 +1,5 @@
-from confluent_kafka import Producer,StringSerializer
-from confluent_kafka import JSONSerializer
+from confluent_kafka import Producer
+from confluent_kafka.serialization import StringSerializer
 import os
 broker = os.environ.get('KAFKA_BROKER')
 print(broker)
