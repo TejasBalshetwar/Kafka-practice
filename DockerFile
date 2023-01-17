@@ -6,3 +6,4 @@ ENV PYTHONUNBUFFERED 1
 RUN pip install confluent-kafka
 RUN pip install requests
 RUN pip install fastavro
+RUN pip install jsonschema

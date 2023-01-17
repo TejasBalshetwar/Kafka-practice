@@ -7,16 +7,16 @@ services:
       ZOOKEEPER_TICK_TIME: 2000
 
   schemaregistry:
-    image: confluentinc/cp-schema-registry:5.1.2
+    image: confluentinc/cp-schema-registry
     restart: always
     depends_on:
       - zookeeper
     environment:
-      SCHEMA_REGISTRY_KAFKASTORE_CONNECTION_URL: "zookeeper:2181"
       SCHEMA_REGISTRY_HOST_NAME: schemaregistry
+      SCHEMA_REGISTRY_KAFKASTORE_BOOTSTRAP_SERVERS: kafka:29092
       SCHEMA_REGISTRY_LISTENERS: "http://0.0.0.0:8081"
     ports:
-      - 8081:8081
+      - "8081:8081"
 
   kafka:
     image: confluentinc/cp-kafka
@@ -35,11 +35,11 @@ services:
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
       KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
       KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
-      KAFKA_SCHEMA_REGISTRY_URL: "schemaregistry:8081"
+      KAFKA_SCHEMA_REGISTRY_URL: schemaregistry:8081
       
   python:
     build: .
-    command: python cproducer.py
+    command: python cksrjsoncons.py
     environment:
       KAFKA_BROKER: kafka:29092
       KAFKA_SCHEMA_REGISTRY_URL: schemaregistry:8081
@@ -49,3 +49,22 @@ services:
       - .:/app
 
 
+  # control-center:
+  #   image: confluentinc/cp-enterprise-control-center
+  #   hostname: control-center
+  #   container_name: control-center
+  #   depends_on:
+  #     - zookeeper
+  #     - kafka
+  #     - schemaregistry
+  #   ports:
+  #     - "9021:9021"
+  #   environment:
+  #     CONTROL_CENTER_BOOTSTRAP_SERVERS: 'kafka:29092'
+  #     CONTROL_CENTER_ZOOKEEPER_CONNECT: 'zookeeper:2181'
+  #     CONTROL_CENTER_SCHEMA_REGISTRY_URL: "http://schema-registry:8081"
+  #     CONTROL_CENTER_REPLICATION_FACTOR: 1
+  #     CONTROL_CENTER_INTERNAL_TOPICS_PARTITIONS: 1
+  #     CONTROL_CENTER_MONITORING_INTERCEPTOR_TOPIC_PARTITIONS: 1
+  #     CONFLUENT_METRICS_TOPIC_REPLICATION: 1
+  #     PORT: 9021
