@@ -7,6 +7,7 @@ import os
 broker = os.environ.get('KAFKA_BROKER')
 schema_registry = SchemaRegistryClient({'url': "http://schemaregistry:8081"})
 schema = schema_registry.get_schema(1)
+
 avro_deserializer = AvroDeserializer(schema_registry_client=schema_registry, schema_str=schema.schema_str)
 
 conf = {'bootstrap.servers': broker,'key.deserializer': StringDeserializer('utf_8'),'value.deserializer': avro_deserializer,'group.id': "mygroup",'auto.offset.reset': 'earliest','enable.auto.commit': False}
