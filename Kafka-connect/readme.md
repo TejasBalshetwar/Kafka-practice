@@ -1,4 +1,4 @@
-### CSV to Kafka and Kafka to Postgres 
+# CSV to Kafka and Kafka to Postgres 
 The connectors used would be SpoolDirCsvSourceConnector and JdbcSinkConnector
 
 Step 1:
@@ -31,7 +31,7 @@ curl -i -X PUT -H "Accept:application/json" \
         "transforms.castTypes.spec":"order_id:int32,customer_id:int32,order_total_usd:float32"
         }'
 
-# Information about the config: https://docs.confluent.io/kafka-connectors/spooldir/current/connectors/csv_source_connector.html#csv-parsing
+### Information about the config: https://docs.confluent.io/kafka-connectors/spooldir/current/connectors/csv_source_connector.html#csv-parsing
 The above command creates a connector which is SpoolDirCsvSourceConnector with auto schema generation and some single message transforms for type casting(if not used then string type will be assigned to all elements).
 
 Step 4:
@@ -57,7 +57,7 @@ curl -X PUT http://localhost:8083/connectors/sink-postgres-orders-00/config \
         "table.name.format":"orders"
     }'
 
-# Information about the config: https://docs.confluent.io/kafka-connectors/jdbc/current/sink-connector/sink_config_options.html#writes
+### Information about the config: https://docs.confluent.io/kafka-connectors/jdbc/current/sink-connector/sink_config_options.html#writes
 The above command creates a connector which sends data from kafka to the specified postgres database and uses the schema to create the table if it's not present and use order_id as primary key and the insert mode is upsert which means while inserting check if order with same order_id exists and if so update that. 
 
 The table is created and if you supply any other file to csv connector it will automatically add those contents to kafka and the jdbc sink connector will add those contents to the table. This is very low latency process which can be considered to be almost "real-time".
