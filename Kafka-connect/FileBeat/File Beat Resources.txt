@@ -1,0 +1,6 @@
+File Beat Resources:
+https://github.com/sermilrod/kafka-elk-docker-compose
+https://medium.com/rahasak/publish-logs-to-kafka-with-filebeat-74497ef7dafe
+https://gitlab.com/xavki/presentations-elk/-/tree/master/12-filebeat-output-kafka
+https://streamthoughts.github.io/kafka-connect-file-pulse/docs/getting-started/
+https://www.elastic.co/guide/en/beats/filebeat/current/kafka-output.html

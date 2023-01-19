@@ -32,6 +32,7 @@ curl -i -X PUT -H "Accept:application/json" \
         }'
 
 ### Information about the config: https://docs.confluent.io/kafka-connectors/spooldir/current/connectors/csv_source_connector.html#csv-parsing
+### Can also refer: https://github.com/jcustenborder/kafka-connect-spooldir
 The above command creates a connector which is SpoolDirCsvSourceConnector with auto schema generation and some single message transforms for type casting(if not used then string type will be assigned to all elements).
 
 Step 4:

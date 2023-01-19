@@ -1,0 +1,10 @@
+curl -i -X PUT -H "Accept:application/json" \
+    -H  "Content-Type:application/json" http://localhost:8083/connectors/source-text-spooldir-00/config \
+    -d '{
+        "connector.class": "com.github.jcustenborder.kafka.connect.spooldir.SpoolDirLineDelimitedSourceConnector",
+        "topic": "text_spooldir_00",
+        "input.path": "/data/unprocessed",
+        "finished.path": "/data/processed",
+        "error.path": "/data/error",
+        "input.file.pattern": ".*\\.txt"
+        }'
