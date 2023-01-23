@@ -1,4 +1,4 @@
-filebeat.prospectors:
+filebeat.inputs:
 - paths:
     - /logs/app.log
   enabled: true

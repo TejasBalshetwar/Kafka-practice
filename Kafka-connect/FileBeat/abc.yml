@@ -1,0 +1,23 @@
+version: '3'
+services:
+  logstash:
+    image: docker.elastic.co/logstash/logstash:8.6.0
+    volumes:
+    - ./logstash.conf:/usr/share/logstash/pipeline/logstash.conf
+    ports:
+    - "5044:5044"
+    links:
+    - mysql:mysql
+  filebeat:
+    image: docker.elastic.co/beats/filebeat:8.6.0
+    volumes:
+    - ./filebeat.yml:/usr/share/filebeat/filebeat.yml
+    links:
+    - logstash:logstash
+  mysql:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: mydb
+    ports:
+      - "3306:3306"
