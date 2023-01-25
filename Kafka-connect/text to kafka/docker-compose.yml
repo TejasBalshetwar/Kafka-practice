@@ -98,9 +98,3 @@ services:
       KSQL_KSQL_SCHEMA_REGISTRY_URL: http://schema-registry:8081
       KSQL_KSQL_SERVICE_ID: confluent_rmoff_01
       KSQL_KSQL_HIDDEN_TOPICS: '^_.*'
-
-  postgres:
-    image: postgres:12
-    environment:
-     - POSTGRES_USER=postgres
-     - POSTGRES_PASSWORD=postgres

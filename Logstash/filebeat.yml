@@ -1,6 +1,6 @@
 filebeat.inputs:
 - paths:
-    - /logs/app.log
+    - /logs/website.log
   enabled: true
   tags:
     - test
@@ -9,8 +9,8 @@ filebeat.inputs:
 
 
 output.kafka:
-  hosts: ["broker:29093"]
-  topic: 'log'
+  hosts: ["broker:29092"]
+  topic: 'weblogs'
   partition.round_robin:
     reachable_only: false
   required_acks: 1

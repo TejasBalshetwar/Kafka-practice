@@ -7,12 +7,18 @@ filebeat.inputs:
   input_type: log
   fields_under_root: true
 
-
 output.kafka:
-  hosts: ["broker:29093"]
+
+  hosts: ["broker:29092"]
+
   topic: 'log'
+
   partition.round_robin:
+
     reachable_only: false
+
   required_acks: 1
+
   compression: gzip
+
   max_message_bytes: 1000000
