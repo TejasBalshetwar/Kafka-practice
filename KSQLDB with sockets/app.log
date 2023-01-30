@@ -1,0 +1,882 @@
+2023-01-27 17:14:52,767:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:14:52,768:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:14:52,769:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,770:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,771:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,771:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,772:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,774:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,774:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,775:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,775:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,776:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,776:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,777:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,777:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,778:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,778:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,778:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:14:52,779:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:14:52,779:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:14:52,780:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:14:52,780:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:14:52,780:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:14:52,781:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:14:52,782:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:14:52,784:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:14:52,784:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:14:52,785:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:14:52,786:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:14:52,786:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:14:52,787:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:14:52,787:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:14:52,788:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:14:52,788:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:14:52,788:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:14:52,789:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:14:52,789:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:14:52,790:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:14:52,790:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:14:52,791:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:14:52,791:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:14:52,792:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:14:52,793:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:14:52,793:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:14:52,793:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:14:52,794:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:14:52,795:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:14:52,795:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:14:52,797:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:14:52,797:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:14:52,797:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:14:52,798:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:14:52,799:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:16:11,102:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:16:11,103:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:16:11,105:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,106:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,106:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,106:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,107:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,107:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,107:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,107:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,108:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,108:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,108:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,108:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,109:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,109:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,109:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,109:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:11,110:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:16:11,111:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:16:11,111:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:16:11,111:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:16:11,111:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:16:11,112:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:16:11,112:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:16:11,112:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:16:11,113:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:16:11,113:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:16:11,114:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:16:11,114:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:16:11,114:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:16:11,114:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:16:11,114:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:16:11,115:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:16:11,117:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:16:11,118:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:16:11,118:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:16:11,119:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:16:11,119:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:16:11,120:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:16:11,120:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:16:11,120:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:16:11,120:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:16:11,121:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:16:11,121:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:16:11,121:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:16:11,121:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:16:11,122:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:16:11,122:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:16:11,123:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:16:11,123:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:16:11,124:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:16:11,124:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:16:18,110:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:16:18,111:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:16:18,112:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,113:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,114:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,115:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,117:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,117:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,118:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,118:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,119:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,119:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,119:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,119:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,120:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,120:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,122:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,123:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:16:18,123:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:16:18,124:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:16:18,124:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:16:18,125:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:16:18,125:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:16:18,126:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:16:18,126:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:16:18,127:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:16:18,128:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:16:18,130:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:16:18,130:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:16:18,130:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:16:18,131:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:16:18,131:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:16:18,131:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:16:18,132:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:16:18,132:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:16:18,132:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:16:18,134:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:16:18,135:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:16:18,136:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:16:18,138:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:16:18,138:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:16:18,139:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:16:18,139:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:16:18,140:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:16:18,140:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:16:18,141:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:16:18,141:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:16:18,142:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:16:18,142:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:16:18,143:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:16:18,143:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:16:18,144:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:16:18,144:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:17:16,769:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:17:16,769:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:17:16,771:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,772:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,772:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,773:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,773:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,773:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,774:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,774:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,774:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,774:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,774:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,774:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,775:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,776:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,776:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,777:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:16,777:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:17:16,777:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:17:16,778:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:17:16,778:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:17:16,778:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:17:16,778:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:17:16,779:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:17:16,779:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:17:16,779:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:17:16,779:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:17:16,780:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:17:16,781:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:17:16,781:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:17:16,781:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:17:16,782:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:17:16,782:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:17:16,782:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:17:16,782:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:17:16,784:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:17:16,784:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:17:16,785:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:17:16,785:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:17:16,786:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:17:16,786:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:17:16,786:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:17:16,787:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:17:16,787:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:17:16,787:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:17:16,788:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:17:16,788:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:17:16,789:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:17:16,790:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:17:16,790:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:17:16,790:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:17:16,790:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:17:19,356:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:17:19,360:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:17:19,361:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,361:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,362:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,362:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,363:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,364:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,364:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,365:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,366:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,367:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,368:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,368:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,369:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,369:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,370:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,370:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:19,371:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:17:19,371:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:17:19,372:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:17:19,372:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:17:19,373:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:17:19,373:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:17:19,375:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:17:19,376:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:17:19,377:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:17:19,378:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:17:19,378:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:17:19,379:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:17:19,379:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:17:19,379:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:17:19,380:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:17:19,380:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:17:19,380:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:17:19,381:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:17:19,381:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:17:19,382:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:17:19,382:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:17:19,383:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:17:19,383:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:17:19,384:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:17:19,384:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:17:19,384:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:17:19,386:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:17:19,386:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:17:19,387:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:17:19,387:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:17:19,387:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:17:19,388:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:17:19,388:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:17:19,389:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:17:19,389:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:17:50,395:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:17:50,395:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:17:50,397:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,398:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,398:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,399:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,399:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,400:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,400:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,400:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,401:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,401:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,401:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,402:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,402:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,403:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,403:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,403:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:17:50,403:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:17:50,404:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:17:50,404:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:17:50,405:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:17:50,405:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:17:50,406:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:17:50,406:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:17:50,406:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:17:50,407:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:17:50,407:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:17:50,407:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:17:50,408:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:17:50,409:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:17:50,410:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:17:50,412:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:17:50,413:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:17:50,413:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:17:50,413:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:17:50,414:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:17:50,414:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:17:50,415:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:17:50,416:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:17:50,417:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:17:50,417:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:17:50,417:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:17:50,418:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:17:50,418:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:17:50,418:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:17:50,418:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:17:50,418:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:17:50,420:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:17:50,420:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:17:50,420:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:17:50,421:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:17:50,421:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:18:00,205:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:18:00,206:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:18:00,207:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,208:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,209:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,210:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,210:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,211:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,211:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,212:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,213:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,213:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,213:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,214:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,215:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,215:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,216:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,216:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:00,217:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:18:00,217:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:00,218:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:00,218:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:00,218:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:00,219:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:00,219:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:00,220:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:00,221:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:00,221:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:00,222:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:18:00,222:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:18:00,223:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:00,223:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:00,223:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:00,224:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:00,224:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:00,224:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:18:00,225:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:18:00,226:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:18:00,226:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:18:00,227:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:18:00,227:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:18:00,228:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:18:00,229:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:18:00,229:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:18:00,229:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:18:00,230:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:18:00,231:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:18:00,231:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:18:00,232:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:18:00,232:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:18:00,233:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:18:00,233:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:18:00,234:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:18:02,127:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:18:02,128:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:18:02,129:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,130:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,131:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,132:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,133:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,134:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,135:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,135:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,136:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,137:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,137:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,138:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,138:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,139:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,141:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,142:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:02,143:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:18:02,144:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:02,144:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:02,145:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:02,145:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:02,145:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:02,146:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:02,147:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:02,147:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:02,148:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:02,149:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:18:02,149:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:18:02,150:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:02,150:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:02,151:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:02,151:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:02,152:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:02,152:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:18:02,153:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:18:02,153:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:18:02,153:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:18:02,153:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:18:02,154:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:18:02,154:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:18:02,155:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:18:02,155:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:18:02,158:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:18:02,159:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:18:02,160:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:18:02,160:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:18:02,161:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:18:02,163:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:18:02,163:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:18:02,163:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:18:02,163:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:18:04,342:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:18:04,343:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:18:04,344:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,345:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,346:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,347:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,348:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,348:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,349:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,350:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,351:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,351:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,352:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,352:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,353:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,353:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,354:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,354:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:18:04,355:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:18:04,355:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:04,356:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:04,357:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:04,358:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:04,359:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:04,360:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:04,363:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:04,364:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:04,364:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:04,365:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:18:04,366:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:18:04,366:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:04,367:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:04,368:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:04,369:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:04,370:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:04,371:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:18:04,371:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:18:04,372:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:18:04,372:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:18:04,373:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:18:04,374:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:18:04,375:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:18:04,376:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:18:04,377:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:18:04,378:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:18:04,379:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:18:04,381:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:18:04,381:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:18:04,381:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:18:04,382:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:18:04,382:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:18:04,383:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:18:04,383:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:18:32,840:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:18:32,841:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:18:32,841:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:18:32,841:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:18:32,845:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:18:32,846:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:18:32,846:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:18:32,847:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:18:32,847:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:18:33,846:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:18:33,847:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:18:33,847:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:18:33,847:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:18:33,847:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:18:33,849:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:18:33,849:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:18:33,850:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:18:33,850:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:18:34,854:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:34,854:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:34,854:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:34,855:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:34,855:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:34,855:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:34,855:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:34,855:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:34,855:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:18:35,861:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:35,861:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:35,861:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:35,862:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:35,862:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:35,862:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:35,863:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:35,863:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:35,863:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:18:36,870:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:36,871:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:36,872:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:36,872:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:36,872:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:36,872:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:36,873:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:36,874:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:36,874:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:18:37,874:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:37,875:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:37,876:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:37,876:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:37,877:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:37,878:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:37,878:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:37,878:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:37,879:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:18:38,882:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:38,883:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:38,883:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:38,884:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:38,885:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:38,885:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:38,885:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:38,885:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:38,886:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:18:39,890:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:18:39,890:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:18:39,891:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:18:39,891:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:18:39,891:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:18:39,892:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:18:39,892:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:18:39,892:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:18:39,892:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:18:40,894:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:18:40,895:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:18:40,895:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:18:40,895:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:18:40,895:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:18:40,895:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:18:40,895:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:18:40,895:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:18:40,896:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:18:41,905:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:18:41,905:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:18:41,905:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:18:41,905:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:18:41,906:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:18:41,906:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:18:41,906:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:18:41,906:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:18:41,906:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:19:03,162:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:19:03,163:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:19:03,163:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,165:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,165:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,166:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,166:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,167:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,167:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,167:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,168:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,168:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,169:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,169:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,169:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,170:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,170:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,170:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:19:03,171:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:19:03,171:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:19:03,172:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:19:03,172:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:19:03,172:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:19:03,173:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:19:03,173:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:19:03,173:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:19:03,174:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:19:03,174:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:19:03,175:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:19:03,176:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:19:03,177:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:19:03,178:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:19:03,178:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:19:03,179:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:19:03,179:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:19:03,180:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:19:03,180:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:19:03,180:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:19:03,181:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:19:03,182:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:19:03,182:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:19:03,183:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:19:03,183:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:19:03,184:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:19:03,184:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:19:03,185:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:19:03,186:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:19:03,186:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:19:03,186:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:19:03,186:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:19:03,187:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:19:03,188:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:19:03,188:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:19:03,189:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:19:03,189:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:19:03,190:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:19:03,190:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:19:03,190:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:19:03,191:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:19:03,191:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:19:03,192:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:19:03,194:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:19:03,194:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:20:04,709:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:20:04,710:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:20:04,711:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,711:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,712:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,712:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,713:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,713:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,714:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,715:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,716:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,717:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,718:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,719:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,720:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,721:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,721:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,722:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:04,723:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:20:04,723:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:04,724:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:04,724:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:04,725:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:04,725:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:04,726:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:04,727:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:04,727:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:04,728:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:04,730:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:20:04,732:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:20:04,733:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:04,735:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:04,739:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:04,739:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:04,740:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:04,741:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:20:04,741:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:20:04,742:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:20:04,743:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:20:04,744:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:20:04,744:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:20:04,745:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:20:04,746:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:20:04,746:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:20:04,747:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:20:04,749:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:20:04,749:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:20:04,750:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:20:04,750:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:20:04,751:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:20:04,753:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:20:04,753:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:20:04,754:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:20:04,754:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:20:04,755:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:20:04,756:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:04,756:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:04,757:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:04,757:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:04,757:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:04,758:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:20:04,759:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:20:04,760:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:20:04,760:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:20:04,761:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:20:04,762:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:04,762:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:04,762:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:04,763:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:04,764:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:05,127:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:20:06,134:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:20:07,139:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:20:13,780:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:20:13,781:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:20:13,781:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,782:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,783:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,784:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,785:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,786:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,786:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,787:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,787:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,788:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,789:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,789:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,790:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,790:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,790:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,791:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:13,791:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:20:13,792:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:13,792:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:13,793:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:13,794:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:13,795:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:13,795:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:13,796:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:13,797:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:13,797:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:13,797:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:20:13,798:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:20:13,798:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:13,799:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:13,800:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:13,800:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:13,801:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:13,801:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:20:13,801:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:20:13,802:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:20:13,802:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:20:13,803:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:20:13,803:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:20:13,804:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:20:13,804:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:20:13,805:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:20:13,805:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:20:13,806:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:20:13,808:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:20:13,809:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:20:13,811:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:20:13,813:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:20:13,814:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:20:13,815:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:20:13,815:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:20:13,816:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:20:13,817:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:20:13,817:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:13,818:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:13,818:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:13,819:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:13,819:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:13,819:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:20:13,820:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:20:13,821:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:20:13,821:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:20:13,821:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:20:13,822:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:13,823:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:13,823:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:13,824:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:13,824:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:13,825:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:20:13,825:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:20:13,826:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:20:27,869:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:20:27,869:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:20:28,882:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:20:28,882:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:20:29,886:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:29,886:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:30,891:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:30,892:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:31,897:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:31,897:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:32,904:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:32,904:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:33,911:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:33,912:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:34,919:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:20:34,920:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:20:35,923:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:20:35,923:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:20:36,929:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:20:36,929:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:20:48,875:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:20:48,876:logger:{'TIMESTAMP': 'sometime', 'LEVEL': 'error', 'MESSAGE': 'file not found'}
+2023-01-27 17:20:48,877:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,878:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,879:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,880:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,880:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,881:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,881:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,882:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'error', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,882:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,883:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,883:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,884:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,884:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'critical', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,885:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,885:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,885:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project gone'}
+2023-01-27 17:20:48,886:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on'}
+2023-01-27 17:20:48,887:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:48,887:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:48,887:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:48,887:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:48,888:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:48,888:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:48,890:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:48,890:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:48,890:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:48,891:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:20:48,891:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:20:48,892:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:48,893:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:48,894:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:48,894:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:48,895:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:48,896:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:20:48,897:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:20:48,898:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:20:48,898:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 11'}
+2023-01-27 17:20:48,898:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:20:48,899:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 12'}
+2023-01-27 17:20:48,900:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:20:48,900:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:20:48,901:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:20:48,902:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 13'}
+2023-01-27 17:20:48,902:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:20:48,902:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 14'}
+2023-01-27 17:20:48,903:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 15'}
+2023-01-27 17:20:48,903:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 16'}
+2023-01-27 17:20:48,904:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:20:48,904:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:20:48,904:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 17'}
+2023-01-27 17:20:48,905:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:20:48,905:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:20:48,905:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:20:48,906:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:48,906:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:48,907:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:48,907:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:48,908:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:48,909:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:20:48,910:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:20:48,911:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:20:48,911:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:20:48,912:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:20:48,912:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:48,913:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:48,914:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:48,914:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:48,914:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:48,916:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:20:48,917:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:20:48,917:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:20:48,918:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 0'}
+2023-01-27 17:20:48,918:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 1'}
+2023-01-27 17:20:48,918:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 2'}
+2023-01-27 17:20:48,919:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 3'}
+2023-01-27 17:20:48,920:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 4'}
+2023-01-27 17:20:48,920:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 5'}
+2023-01-27 17:20:48,920:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 6'}
+2023-01-27 17:20:48,921:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 7'}
+2023-01-27 17:20:48,921:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 8'}
+2023-01-27 17:20:48,921:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 9'}
+2023-01-27 17:32:06,530:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:32:06,530:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
+2023-01-27 17:32:06,531:logger:{'TIMESTAMP': '12/11/2022', 'LEVEL': 'INFO', 'MESSAGE': 'Project going on 18'}
