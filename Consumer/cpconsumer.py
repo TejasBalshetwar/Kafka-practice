@@ -5,10 +5,7 @@ import time
 
 broker = os.environ.get('KAFKA_BROKER')
 
-conf = {'bootstrap.servers': broker,
-        'group.id': "pehla",
-        'enable.auto.commit': False,
-        'auto.offset.reset': 'earliest'}
+conf = {'bootstrap.servers': broker,'group.id': "pehla",'enable.auto.commit': False,'auto.offset.reset': 'earliest'}
 
 
 def cons():

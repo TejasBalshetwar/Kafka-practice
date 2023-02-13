@@ -7,3 +7,4 @@ RUN pip install confluent-kafka
 RUN pip install requests
 RUN pip install fastavro
 RUN pip install jsonschema
+RUN pip install flask
