@@ -17,12 +17,14 @@ conf = {
     "key.serializer": StringSerializer(),
     "value.serializer": StringSerializer(),
     "transactional.id": "my-transactional-id",
+    "enable.idempotence":True,
+    "acks":"all"
 }
 
 producer = SerializingProducer(conf)
 producer.init_transactions()
 producer.begin_transaction()
-for i in range(1071,1090):
+for i in range(1091,1110):
     time.sleep(2)
     producer.produce(
         "first",
